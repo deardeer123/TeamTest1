@@ -6,7 +6,7 @@ public class Cheol {
     //2번
 
     //3번
-
+        String hello = "anYeongHasaeYo";
     //4번
 
 }
