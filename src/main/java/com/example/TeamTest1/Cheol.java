@@ -8,5 +8,5 @@ public class Cheol {
     //3번
 
     //4번
-
+    String namji = "남지훈 최고";
 }
