@@ -6,7 +6,7 @@ public class Cheol {
     //2번
 
     //3번
-
+    String goHome = "집에 가고싶다.";
     //4번
 
 }
